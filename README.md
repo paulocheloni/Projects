@@ -3,7 +3,7 @@
 Here you can find my trail since my very first project.
 You can select them by module.
 
-# SHELLSCRIPT
+# SHELLSCRIPT 
 
  1. Introduction to Shellscript
 
@@ -12,7 +12,7 @@ You can select them by module.
  1. Introduction to HTML AND CSS
  2. Introduction to flexbox and Responsive design
 
-# Introduction To WebDevelopment
+# Introduction To WebDevelopment 
 
  1. Introduction to Javascript
  2. DOM, Events, WebStorage
