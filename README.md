@@ -19,16 +19,16 @@ You can select them by module.</h4>
 ![](/icons/html-css-js.png) ![](/icons/dom.png) ![](/icons/es6-logo.png) ![](/icons/jest.png)
 
 
- 3. Introduction to Javascript
- 1. Introduction to HTML AND CSS 
- 2. Introduction to flexbox and Responsive design
+ 1. Introduction to Javascript
+ 2. Introduction to HTML AND CSS 
+ 3. Introduction to flexbox and Responsive design
  4. DOM, Events, WebStorage
  5. Introduction to Javascript ES6 and Unit Tests
  6. HighOrder Functions to Javascript ES6
  7. Promises and asyncronous Javascript
  8. Automatized Tests
 
-# FRONT-END <br> <br>![](/icons/redux.png) ![](/icons/materialuiicon.png) ![](/icons/react.png) ![](/icons/)
+# FRONT-END <br> <br>![](/icons/redux.png) ![](/icons/materialuiicon.png) ![](/icons/react.png) ![](/icons/cypress.png)
 
  1. Introduction to React
  2. Component State, Events and Forms in React
