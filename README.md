@@ -28,7 +28,7 @@ You can select them by module.</h4>
  7. Promises and asyncronous Javascript
  8. Automatized Tests
 
-# FRONT-END <br> <br>![](/icons/redux.png) ![](/icons/materialuiicon.png) ![](/icons/react.png) ![](/icons/)
+# FRONT-END <br> <br>![](/icons/redux.png) ![](/icons/materialuiicon.png) ![](/icons/react.png) ![](/icons/cypress.png)
 
  1. Introduction to React
  2. Component State, Events and Forms in React
